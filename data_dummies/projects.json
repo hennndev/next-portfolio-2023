@@ -1,0 +1,40 @@
+
+
+[
+    {
+        "title": "Pizza Delivery Order",
+        "img": "/images/pizza-project.png",
+        "description": "Build with: ReactJS, NextJS, TailwindCSS and MongooDB",
+        "link": "https://pizzaorder.vercel.app"
+    },
+    {
+        "title": "Real Estate",
+        "img": "/images/realestate-project.png",
+        "description": "Build with: ReactJS, NextJS, TailwindCSS, rapidAPI and MongooDB",
+        "link": "https://realestate-rho.vercel.app"
+    },
+    {
+        "title": "Sneakers Ecommerce",
+        "img": "/images/sneakers-project.png",
+        "description": "Build with: ReactJS, NextJS, TailwindCSS and MongooDB",
+        "link": "https://next-mongodb-cloudinary-ecommerce.vercel.app"
+    },
+    {
+        "title": "Cryptocurrencies Live",
+        "img": "/images/cryptocurrencies-project.png",
+        "description": "Build with: ReactJS, NextJS, TailwindCSS and rapidAPI",
+        "link": "https://next-cryptocurrency.vercel.app"
+    },
+    {
+        "title": "Airbnb Clone",
+        "img": "/images/airbnb-project.png",
+        "description": "Build with: ReactJS, NextJS, TailwindCSS and rapidAPI",
+        "link": "https://airbnb-clone-sand-three.vercel.app/"
+    },
+    {
+        "title": "Hulu Clone",
+        "img": "/images/huluclone-project.png",
+        "description": "Build with: ReactJS, NextJS, TailwindCSS and rapidAPI",
+        "link": "https://next-hulu-clone-seven.vercel.app/"
+    }
+]
