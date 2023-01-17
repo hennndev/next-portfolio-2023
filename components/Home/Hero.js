@@ -13,7 +13,7 @@ const Hero = () => {
         <section className='container flex items-center h-[90vh] dark:text-white text-dark flex-col pt-[100px] sm:pt-[50px] px-[20px]'>
             <h1 className='text-[40px] font-bold sm:text-[65px] sm:font-extrabold text-center mb-[30px] leading-snug'>
                 Start Your Digital Business <br /> with Me. <br /> 
-                I'm a <Typed
+                I&#39;m a <Typed
                 strings={[
                     'Web Developer',
                     'UI/UX',
